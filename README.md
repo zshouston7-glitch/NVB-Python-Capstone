@@ -7,7 +7,7 @@ NVB Python Summer 2026 Capstone Project
 The Interactive Recipe Manager is a cozy, easy-to-use Python application created to help home bakers and cooks organize their favorite recipes in one sweet spot! 📖✨ It solves the hassle of tracking down scattered recipes, helps prevent food waste by searching for dishes based on yummy ingredients already in your fridge 🫐, and takes away all the scary kitchen math by automatically scaling ingredient quantities whenever you want to cook for a crowd! 🍪
 
 ## 🚀 How to run it
-1. Open the project notebook (Zoey_Houston_nvb_capstone.ipynb) in **Google Colab**.
+1. Open the project notebook (https://colab.research.google.com/drive/15d7saTRXiOxgpH2JQcGokix-k57Ia91i?authuser=1) in **Google Colab**.
 2. Run all cells from top to bottom by selecting **Runtime ➔ Run all**.
 3. Interact directly with the console prompts using numbers `1` through `5`.
 
