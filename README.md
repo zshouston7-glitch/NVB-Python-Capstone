@@ -21,4 +21,4 @@ The Interactive Recipe Manager is a cozy, easy-to-use Python application created
 A charming, interactive terminal app pre-loaded with delicious sweet treats (Chocolate Chip Cookies, Blueberry Muffins, and Blackberry Cobbler!) that lets users seamlessly add, search, view, and scale recipes.
 
 ## Author
-[Your Name] · [Your University] · NVB Summer 2026
+[Zoey Houston] · [Morgan State University] · NVB Summer 2026
